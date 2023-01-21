@@ -9,7 +9,7 @@
   - [BASICS](#basics)
   - [COMMON TOPICS](#common-topics)
   - [GETTING DEEPER](#getting-deeper)
-  - [START BUILDING AND DEPLOYMENT](#start-building-&-deployment)
+  - [START BUILDING AND DEPLOYMENT](#start-building-and-deployment)
 
 ## Where to start (iOS Development Roadmap) :world_map:
 
